@@ -41,9 +41,14 @@ Material:
     - _ContrastFade: -20
     - _Current_Radius: 0
     - _Float: 0
-    - _GlowDistance: 20
-    - _Size: 0
-    - _Width: 0
+    - _GlowDistance: 30
+    - _Size: 10
+    - _Speed: 0.6
+    - _Width: 0.1
+    - _inx: -20
+    - _iny: 1
+    - _outx: 0
+    - _outy: 1
     m_Colors:
     - _Origin: {r: 0.01, g: 1, b: 0.4, a: 0}
   m_BuildTextureStacks: []
