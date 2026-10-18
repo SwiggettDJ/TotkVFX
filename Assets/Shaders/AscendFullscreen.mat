@@ -52,15 +52,16 @@ Material:
     - _ContrastDistance: 413.9
     - _ContrastFade: -20
     - _Current_Radius: 0
+    - _Distortion: 5
     - _Float: 0
     - _GlowDistance: 30
-    - _Outline: 0.2
-    - _RotationSpeed: 2
+    - _Outline: 3
+    - _RotationSpeed: 5
     - _Size: 10
     - _Speed: 0.6
     - _WaveAmount: 10
     - _WaveHeight: 0.04
-    - _Width: 0.1
+    - _Width: 1.5
     - _inx: -20
     - _iny: 1
     - _number: 10
