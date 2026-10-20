@@ -55,7 +55,7 @@ Material:
     - _Distortion: 5
     - _Float: 0
     - _GlowDistance: 30
-    - _Outline: 3
+    - _Outline: 1
     - _RotationSpeed: 5
     - _Size: 10
     - _Speed: 0.6
